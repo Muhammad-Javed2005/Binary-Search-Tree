@@ -1,0 +1,23 @@
+-------- BINARY SEARCH TREE STRUCTURE --------
+Left | Data | Right
+----------------------------------------------
+Node [0] => Left=1 | Data=50 | Right=3
+Node [1] => Left=2 | Data=45 | Right=-1
+Node [2] => Left=5 | Data=32 | Right=10
+Node [3] => Left=14 | Data=76 | Right=4
+Node [4] => Left=15 | Data=81 | Right=6
+Node [5] => Left=8 | Data=12 | Right=7
+Node [6] => Left=-1 | Data=99 | Right=-1
+Node [7] => Left=16 | Data=25 | Right=-1
+Node [8] => Left=12 | Data=3 | Right=9
+Node [9] => Left=-1 | Data=4 | Right=17
+Node [10] => Left=-1 | Data=40 | Right=11
+Node [11] => Left=-1 | Data=42 | Right=-1
+Node [12] => Left=-1 | Data=-19 | Right=13
+Node [13] => Left=-1 | Data=0 | Right=-1
+Node [14] => Left=-1 | Data=60 | Right=-1
+Node [15] => Left=-1 | Data=80 | Right=-1
+Node [16] => Left=-1 | Data=20 | Right=-1
+Node [17] => Left=-1 | Data=6 | Right=-1
+
+Tree saved successfully at 2025-10-07T14:16:31.873458200
